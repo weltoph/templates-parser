@@ -99,7 +99,7 @@ This is the conditional statement. The complete form is::
    part2
  @@ELSE@@
    part3
- @@END_IF@
+ @@END_IF@@
 
 <expression> is TRUE if it evaluates to one of "TRUE", "T" or
 "1" and FALSE otherwise. Note that the test is not case sensitive.
